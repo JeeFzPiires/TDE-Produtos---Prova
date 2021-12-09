@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ApiProduto</name>
+    </assembly>
+    <members>
+        <member name="M:ApiProduto.Controllers.ProdutoController.ObterPorId(System.String)">
+            <summary>
+             Consulta dados de uma pessoa a partir do CPF
+             Requer uso de token.
+            </summary>
+            <param name="cpf">CPF</param>
+            <returns>Objeto contendo dados de uma pessoa.</returns>
+        </member>
+    </members>
+</doc>
